@@ -1,0 +1,33 @@
+body {
+	background-image: url(background.jpeg)
+	background-size: cover;
+}
+h2 {
+color: #f6abb6;
+text-align:center;
+font-weight:bold;
+font-family:'Fantasy';
+}
+
+h2:hover {
+	color: #6497b1;
+}
+h3 {
+	color:pink
+	/*text-align: center;*/
+}
+
+h3:hover {
+	color: #b3cde0;
+}
+li {
+	list-style:none;
+
+}
+h3 {
+	color:pink;
+}
+p  {
+	text-decoration:underline;
+
+	
